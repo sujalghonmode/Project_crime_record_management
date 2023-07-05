@@ -4,8 +4,8 @@ import java.util.Scanner;
 class Admin {
 
      int NoOfCriminal=0;
-    Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/crime_records", "root", "01@Skeshav");
-
+    Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/crime_records", "root", "01@Skeshav");   
+     // here "root" is the username of sql and "01@Skeshav" is the password.These are dummy credentials just to access the database from within the system.
     Admin() throws SQLException {
     }
 
