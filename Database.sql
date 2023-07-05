@@ -1,4 +1,4 @@
-//Some of the data and tables in this sql file is just for exqmples and is not usef in the main project, so ignore it as they have no purpose to serve in the project
+/*Some of the data and tables in this sql file is just for examples and is not used in the main project, so ignore it as they have no purpose to serve in the project
 
 
 -- MySQL dump 10.13  Distrib 8.0.33, for Win64 (x86_64)
